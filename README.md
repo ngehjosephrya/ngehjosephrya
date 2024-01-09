@@ -10,7 +10,7 @@ Passionate Python and Django Developer | Open Source Enthusiast | Problem Solver
 - **Pythonic Solutions:** Crafting clean, readable, and efficient Python code.
 - **Database Management:** Proficient in working with databases, including PostgreSQL.
 
-# Lerning areas
+# Learning areas 
 - **API Integration:** Connecting applications seamlessly using RESTful APIs.
 - ** Javascrip and its frameworks including react js, vue js , and next js
 
